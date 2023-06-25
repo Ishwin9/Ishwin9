@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ishwin Bajaj
-- 👀 I'm a Mechanical Engineer from Monash University
-- 🌱 I’m currently doing Business Insights and Analytics @ Humber College
+- 👀 I'm a Mechanical Engineer @ Monash University and Post Graduate Student in Business Insights and Analytics
+- 🌱 I’m currently working as a Data Scientist @ Mutoal Future, Toronto, Canada
 - 📫 You can reach me at ishwin9@gmail.com
-
