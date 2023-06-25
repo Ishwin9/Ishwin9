@@ -5,4 +5,4 @@
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,gcp,mysql,postgres,sqlite,pytorch,tensorflow,github,gitlab,docker,selenium,flask,aws,r,matlab,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,gcp,mysql,postgres,sqlite,pytorch,tensorflow,github,gitlab,docker,flask,aws,r,matlab,vscode)](https://skillicons.dev)
